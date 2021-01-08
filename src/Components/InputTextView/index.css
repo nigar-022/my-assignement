@@ -1,0 +1,22 @@
+.grey {
+  background-color: #f8f8f8;
+}
+/* .white {
+  background-color: rgb(206, 93, 93);
+} */
+.input {
+  padding: 0.8rem;
+  margin-bottom: 0.5rem;
+  border: 2px solid #eee;
+  border-radius: 0.4rem;
+  width: 50%;
+}
+.sm {
+  size: 15px;
+}
+.md {
+  size: 25px;
+}
+.lg {
+  size: 50px;
+}

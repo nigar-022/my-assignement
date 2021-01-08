@@ -1,0 +1,48 @@
+.lg {
+  font-size: 50px;
+}
+/* .sm {
+  font-size: 10px;
+} */
+.md {
+  font-size: 25px;
+}
+.xs {
+  font-size: 5px;
+}
+.right {
+  text-align: right;
+}
+.left {
+  text-align: left;
+}
+.center {
+  text-align: center;
+}
+.bold {
+  font-weight: bold;
+}
+.black {
+  color: black;
+}
+.green {
+  color: rgb(188, 248, 188);
+}
+.red {
+  color: rgb(250, 76, 76);
+}
+.size {
+  font-size: 100px;
+}
+.align {
+  text-align: right;
+}
+.italic {
+  font-style: italic;
+}
+.underline {
+  text-decoration: underline;
+}
+.strike {
+  text-decoration: line-through;
+}

@@ -1,0 +1,36 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+.form-data {
+  width: 100%;
+  max-width: 35rem;
+  margin-top: 3rem;
+  margin: auto;
+}
+
+.form-data form {
+  background-color: #fff;
+  border: 2px solid #eee;
+  display: flex;
+  flex-direction: column;
+  padding: 2rem 4rem;
+  text-align: center;
+}
+
+.container {
+  width: 100%;
+  max-width: 93.5rem;
+  margin: 3rem auto 0;
+}
+
+.errorMsg {
+  padding: 5px;
+  margin: 0px;
+  font-size: 11px;
+  color: red;
+}
